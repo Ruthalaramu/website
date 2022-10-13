@@ -1,0 +1,138 @@
+ body{
+   background-color: #E4F9F5;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+}
+p{
+
+font-weight: normal;
+  padding-top: 10px;
+  line-height: 2;
+}
+#new-h2{
+  font-family: 'Permanent Marker', cursive;
+  margin-right: 20px;
+  color: red;
+  font-weight: normal;
+
+}
+.code-set{
+  position: absolute;
+right: 650px;
+top: 320px;
+
+
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.26rem;
+  margin: 70px auto 0 auto;
+  color: orange;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: red;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.profile{
+
+}
+h1{
+
+
+  margin-top:20px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.mountain{
+  margin-bottom:  50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 280px;
+
+}
+.top-cloud{
+  position: relative;
+  left: 400px;
+}
+.ram-pic{
+  border-radius: 200%;
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+}
+.insta-update{
+  margin-bottom: 10px;
+}
+.img-link-fb{
+  position: absolute;
+
+}
+.img-link-insta{
+  margin-right:10px;
+}
+.img-link-twitter{
+  position: absolute;
+right: 950px;
+
+
+}
+.img-hacker{
+  position: absolute;
+}
+.footer-link{
+  color:green;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.skill-code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill-img-com{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+
+
+}
+.h2-change{
+  margin-top: 100px;
+}
+hr{
+border: dotted;
+width: 5%;
+color: orange;
+border-bottom: none;
+margin: 100px auto;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.hr-new{
+  margin-right: 400px;
+}
